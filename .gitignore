@@ -29,3 +29,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
